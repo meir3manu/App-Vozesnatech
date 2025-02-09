@@ -39,6 +39,5 @@ Você pode baixar o arquivo APK diretamente do GitHub e instalá-lo no seu dispo
 4. **Commit** suas alterações.
 5. **Envie** um pull request para o repositório principal.
 
-## Contribuições
 
-Sinta-se à vontade para contribuir para o projeto! Email: vozesnatech@gmail.com
+Sinta-se à vontade para entrar en contato conosco no Email: vozesnatech@gmail.com
