@@ -16,7 +16,7 @@
 
 Você pode baixar o arquivo APK diretamente do GitHub e instalá-lo no seu dispositivo Android:
 
-[Baixar APK - Vozes na Tech](https://drive.google.com/drive/folders/1BeVMn-PPFLxYGbz90UA85Sj-8CqXlfLR?usp=sharing)
+[Baixar APK - Vozes na Tech](./Vozes%20na%20Tech.apk)
 
 ### Como instalar
 
