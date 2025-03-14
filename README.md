@@ -1,6 +1,6 @@
 # Vozes na Tech
 
-**Vozes na Tech** é um aplicativo inovador criado para oferecer conectividade e suporte às mulheres e meninas que estão iniciando ou aprimorando seus conhecimentos em carreiras na área de tecnologia.
+**Vozes na Tech** é um aplicativo criado para oferecer conectividade e suporte às mulheres e meninas que estão iniciando ou aprimorando seus conhecimentos em carreiras na área de tecnologia.
 
 
 ![Telas reais do app ](apptela.png) 
@@ -38,9 +38,9 @@ Você pode baixar o arquivo APK diretamente do GitHub e instalá-lo no seu dispo
 
 ### Tecnologias usadas
 
-- **Android SDK**
-- **Cordova**
-- **HTML/CSS**
+- **Android Studio**
+- **Apache Cordova**
+- **HTML/CSS/JS**
 
 ### Como contribuir
 
