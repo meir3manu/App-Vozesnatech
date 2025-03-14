@@ -51,4 +51,4 @@ Você pode baixar o arquivo APK diretamente do GitHub e instalá-lo no seu dispo
 5. **Envie** um pull request para o repositório principal.
 
 
-Sinta-se à vontade para entrar en contato conosco no Email: vozesnatech@gmail.com
+Sinta-se à vontade para entrar en contato conosco através do email: vozesnatech@gmail.com
