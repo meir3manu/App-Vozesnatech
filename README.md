@@ -42,13 +42,4 @@ Você pode baixar o arquivo APK diretamente do GitHub e instalá-lo no seu dispo
 - **Apache Cordova**
 - **HTML/CSS/JS**
 
-### Como contribuir
-
-1. **Fork** este repositório para sua conta.
-2. **Clone** o repositório na sua máquina local.
-3. **Crie uma nova branch** para suas modificações.
-4. **Commit** suas alterações.
-5. **Envie** um pull request para o repositório principal.
-
-
 Sinta-se à vontade para entrar en contato conosco através do email: vozesnatech@gmail.com
